@@ -1,0 +1,31 @@
+.picture {
+  width: 272px;
+  height: 92px;
+}
+
+.gmail {
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.google {
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.email {
+  content: url("https://lh3.googleusercontent.com/---VOeSAa608/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfKHonEFDW27rufM95hTxXTrhao1Q.CMID/s64-c/photo.jpg");
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+
+.application {
+  content: url("application.jpg");
+  width: 30px;
+  height: 30px;
+}

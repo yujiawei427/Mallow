@@ -1,0 +1,9 @@
+p {
+  color: red;
+}
+body {
+  background-image: url("google.png");
+  background-repeat: no-repeat;
+  background-position: right middle;
+  margin-left: 100px;
+}
