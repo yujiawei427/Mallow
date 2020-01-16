@@ -60,4 +60,8 @@ getStops(twoStopsFlights);
 // 2 stops
 
 getStops(threeStopsFlights);
+<<<<<<< HEAD
 // 3 stops aaa
+=======
+// 3 stops test
+>>>>>>> parent of 88be950... Update cauStops.js
